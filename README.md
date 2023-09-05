@@ -9,8 +9,12 @@ En este repo se encuentra los archivos utilizados en la explicacion del taller s
 
 # Herramientas
 
+# Herramienta 1 : Recopilado de datos - Microsoft Forms
 [Microsoft Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=oGfaB0MfjE6Xf1-ItkcO5piOJwLQXdNJg0MUKLXzOUZUM0s0WDFCRUxRMlZIVjVRMjI4SjRCOTVXVi4u)
 
+# Herramienta 1 : Acceso al forms
+
+<img align="center" width="400" src="https://user-images.githubusercontent.com/96964513/265598333-cf012a46-763a-4371-9fde-251c572ea068.png" />
 
 
 # TOPICS
