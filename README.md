@@ -1,6 +1,11 @@
 # Taller
 
-En este repo se encuentra los archivos utilizados en la explicacion del taller sobre Analitica de Datos con Perspectiva Etica para la clase de Estadística  y Probabilidad con Perspectiva Ética 2023-2 
+En este repo se encuentra los archivos utilizados en la explicacion del taller sobre Analitica de Datos con Perspectiva Etica para la clase de Estadística  y Probabilidad con Perspectiva Ética 2023-2:
+
+# Niveles del Taller
+* Taller I : Descubre el Poder de los Datos
+* Taller II : Dominando las Técnicas Cuantitativas, Cualitativas y Gráficas
+* Taller III : Siendo un analista de datos
 
 # Herramientas
 
