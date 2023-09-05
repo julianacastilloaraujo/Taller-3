@@ -29,3 +29,4 @@ En este repo se encuentra los archivos utilizados en la explicacion del taller s
 <img align="center" width="400" src="https://user-images.githubusercontent.com/96964513/265598333-cf012a46-763a-4371-9fde-251c572ea068.png" />
 
 # Herramienta 1-3 : Acceso a slides del Taller I
+[PPT del Taller I](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/ESVFzezqG4ZJriQXsOXh5zIB8s0USI1DZZDP-mkd55u77g?rtime=2X1ixiKu20g)
