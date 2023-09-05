@@ -8,12 +8,4 @@
 - **Microsoft Forms y Excel**: Utilización de Microsoft Forms y Excel para recopilar y analizar datos.
 - **ETL (Extract, Transform, Load)**: Procesos ETL para la limpieza y preparación de datos.
 - **Despedida**: Reflexiones finales sobre lo aprendido en el taller.
-- **Tips para la Próxima Sesión**: Recomendaciones y recursos para seguir aprendiendo.
-
-## Contribuir
-
-Si deseas contribuir a este proyecto o tienes sugerencias para mejorarlo, ¡no dudes en abrir un issue o enviar un pull request!
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+- **Tips para la Próxima Sesión**: Recomendaciones y recursos para seguir aprendiendo
