@@ -1,8 +1,4 @@
-# Proyecto de Análisis de Datos y Minería
-
-Este repositorio contiene el material y los recursos utilizados en el Taller de Análisis de Datos y Minería. Aquí exploraremos diversos aspectos relacionados con el procesamiento, análisis y visualización de datos, así como consideraciones éticas en el manejo de datos.
-
-## Temas Cubiertos
+## Temas 
 
 - **Datos y Analítica**: Introducción a la importancia de los datos y la analítica en la toma de decisiones.
 - **Inclusión de la Media, Mediana y Moda**: Exploración de las medidas estadísticas más comunes y su aplicación en el análisis de datos.
@@ -13,12 +9,6 @@ Este repositorio contiene el material y los recursos utilizados en el Taller de 
 - **ETL (Extract, Transform, Load)**: Procesos ETL para la limpieza y preparación de datos.
 - **Despedida**: Reflexiones finales sobre lo aprendido en el taller.
 - **Tips para la Próxima Sesión**: Recomendaciones y recursos para seguir aprendiendo.
-
-## Recursos Adicionales
-
-- [Enlace a la presentación del taller](#) (¡Próximamente!)
-- [Archivos de código y ejemplos](/codigo)
-- [Conferencista: @jlianacastillo](https://github.com/jlianacastillo)
 
 ## Contribuir
 
