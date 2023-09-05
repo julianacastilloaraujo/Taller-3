@@ -1,11 +1,15 @@
-## Temas 
+# Taller
 
-- **Datos y Analítica**: Introducción a la importancia de los datos y la analítica en la toma de decisiones.
-- **Inclusión de la Media, Mediana y Moda**: Exploración de las medidas estadísticas más comunes y su aplicación en el análisis de datos.
-- **La Vida de los Datos a Través de los Gráficos**: Visualización efectiva de datos utilizando herramientas como Matplotlib y Seaborn.
-- **Minería y Analítica de los Datos**: Introducción a técnicas de minería de datos y análisis predictivo.
-- **Ética de los Datos**: Consideraciones éticas en la recopilación, uso y divulgación de datos.
-- **Microsoft Forms y Excel**: Utilización de Microsoft Forms y Excel para recopilar y analizar datos.
-- **ETL (Extract, Transform, Load)**: Procesos ETL para la limpieza y preparación de datos.
-- **Despedida**: Reflexiones finales sobre lo aprendido en el taller.
-- **Tips para la Próxima Sesión**: Recomendaciones y recursos para seguir aprendiendo
+En este repo se encuentra los archivos utilizados en la explicacion del taller sobre Analitica de Datos con Perspectiva Etica para la clase de Estadística  y Probabilidad con Perspectiva Ética 2023-2 
+
+# TOPICS
+* Datos y analitica
+* Inclusion de la media, mediana y moda
+* La vida de los datos a traves de los graficos
+* Mineria y analitica de los datos
+* Etica de los datos
+* Microsoft forms
+* Excel
+* ETL
+* Despedida
+* Tips para proxima sesion
