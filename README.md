@@ -1,8 +1,12 @@
 # Taller Version 3 📊
 * Este taller es la version 3 
-* Version 1 (2022-2) Aqui 👉🏻 [Taller I - Ago-Nov 2022](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/ESVFzezqG4ZJriQXsOXh5zIB8s0USI1DZZDP-mkd55u77g?e=KsegHd)
+* Version 1 (2022-2) Aqui 👉🏻 [Taller I - Ago-Nov 2022]()
 * Version 2(2023-1) Aqui  👉🏻 [Taller II - Ene-Jun 2023](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/EXIvzxZo1CRMoTgW3mck4m4BKA2KApvILf4LbAFnP6uxZw?e=oMfw1L)
 * Version 3 (2023-2) Es este 🙋🏼‍♀️ pero <strong>recuerda hay 3 sesiones</strong>
+
+# Sesiones
+
+* ✅ [Sesion 1 - 2023](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/ESVFzezqG4ZJriQXsOXh5zIB8s0USI1DZZDP-mkd55u77g?e=KsegHd)
 
 # Disclaimer 🎯
 * En este repo se encuentra los archivos utilizados en la explicacion del taller sobre Analitica de Datos con Perspectiva Etica para la clase de Estadística  y Probabilidad con Perspectiva Ética 2023-2:
