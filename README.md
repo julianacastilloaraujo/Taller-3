@@ -52,13 +52,6 @@
 * Tecnicas Graficas
 * Integracion de Tecnicas
 * Ejemplos Prácticos (Instagram)
-* Consejos y Recomendaciones
-* Preguntas y Respuestas
-* Despedida
-* Tips para próxima sesión
-
-![image](https://github.com/jlianacastillo/Taller-3/assets/96964513/9a2e2d13-30e8-492d-b834-3596d1e11d98)
-
 
 ## Herramienta 2-1 : Quiz de taller II - Microsoft Forms
 * Da un clic aqui abajo 👇🏻 para acceder al quiz del taller II de hoy 
