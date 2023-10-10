@@ -9,10 +9,12 @@
 
 # Niveles del Taller ✅
 * Taller I : Descubre el Poder de los Datos
+  # Forms I : [Extraccion](https://forms.office.com/Pages/ResponsePage.aspx?id=oGfaB0MfjE6Xf1-ItkcO5piOJwLQXdNJg0MUKLXzOUZUM0s0WDFCRUxRMlZIVjVRMjI4SjRCOTVXVi4u)
 * Taller II : Dominando las Técnicas Cuantitativas, Cualitativas y Gráficas
+  # Forms II : [Quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=oGfaB0MfjE6Xf1-ItkcO5piOJwLQXdNJg0MUKLXzOUZURVZBMDFQNlVUOVBNRzhPQ1NQTE5CSFhaRS4u)
 * Taller III : Siendo un analista de datos
 
-# TOPICS ⭐️
+# TOPICS Taller I⭐️
 * Datos y analitica
 * Inclusion de la media, mediana y moda
 * La vida de los datos a traves de los graficos
