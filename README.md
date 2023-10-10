@@ -7,7 +7,7 @@
 # Sesiones
 
 * ✅ [Sesion 1 - 29/08/2023](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/ESVFzezqG4ZJriQXsOXh5zIB8s0USI1DZZDP-mkd55u77g?e=KsegHd)
-* ✅ [Sesion 2 - 10/10/2023](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/EcHxj38N3FlIpEi4rLSqK8UBmoJkMo8soZK21VIECW7uAw?e=uJEUri)
+* ✅ [Sesion 2 - 10/10/2023](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/EYFR9jt_tvNNs0mnj2ZxWEEBqkoMk10LyKcOSV5Bm4a9ww?e=4SsdNi)
 
 # Disclaimer 🎯
 * En este repo se encuentra los archivos utilizados en la explicacion del taller sobre Analitica de Datos con Perspectiva Etica para la clase de Estadística  y Probabilidad con Perspectiva Ética 2023-2:
@@ -63,4 +63,4 @@
 
 ## Herramienta 2-3 : Acceso a slides del Taller II
 * Da un clic aqui abajo 👇🏻 para acceder al enlace de las PPT que vimos hoy 
-* [PPT del Taller II](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/EcHxj38N3FlIpEi4rLSqK8UBmoJkMo8soZK21VIECW7uAw?e=uJEUri)
+* [PPT del Taller II](https://mailunicundiedu-my.sharepoint.com/:p:/g/personal/jcastilloa_ucundinamarca_edu_co/EYFR9jt_tvNNs0mnj2ZxWEEBqkoMk10LyKcOSV5Bm4a9ww?e=4SsdNi)
